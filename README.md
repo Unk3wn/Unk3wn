@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain-wordmark.svg" alt="spring" width="40" height="40"/></a>
 </p>
 
-## People I work with :heart:
+## People I work with @DHBW-Karlsruhe :heart:
 <p>
   <a href="https://github.com/Mueller-Patrick" target="_blank"><img src="https://avatars.githubusercontent.com/u/50352812?v=4" alt="patrick-mueller" width="40" height="40"/></a>
   <a href="https://github.com/liza-kl" target="_blank"><img src="https://avatars.githubusercontent.com/u/58568446?v=4" alt="liza-kl" width="40" height="40"/></a>
