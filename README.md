@@ -28,6 +28,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain-wordmark.svg" alt="spring" width="40" height="40"/></a>
 </p>
 
+## People I work with :heart:
+<p>
+  <a href="https://github.com/Mueller-Patrick" target="_blank"><img src="https://avatars.githubusercontent.com/u/50352812?v=4" alt="apple" width="40" height="40"/></a>
+</p>
 
 <!--
 **Unk3wn/Unk3wn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
