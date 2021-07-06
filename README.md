@@ -41,6 +41,11 @@
   <a href="https://github.com/D45Hub" target="_blank"><img src="https://avatars.githubusercontent.com/u/61849425?v=4" alt="Dennis" width="40" height="40"/></a>
 </p>
 
+## People I have smth to do with 🦀
+<p>
+  <a href="https://github.com/BrunnerJulian" target="_blank"><img src="https://avatars.githubusercontent.com/u/64075858?v=4" alt="BrunnerJulian" width="40" height="40"/></a>
+</p>
+
 <!--
 **Unk3wn/Unk3wn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
