@@ -33,7 +33,7 @@
   <a href="https://github.com/Mueller-Patrick" target="_blank"><img src="https://avatars.githubusercontent.com/u/50352812?v=4" alt="patrick-mueller" width="40" height="40"/></a>
   <a href="https://github.com/Krissi005" target="_blank"><img src="https://avatars.githubusercontent.com/u/64778595?v=4" alt="Krissi" width="40" height="40"/></a>
   <a href="https://github.com/liza-kl" target="_blank"><img src="https://avatars.githubusercontent.com/u/58568446?v=4" alt="liza-kl" width="40" height="40"/></a>
-  <a href="https://github.com/qt1337" target="_blank"><img src="https://avatars.githubusercontent.com/u/38101884?v=4" alt="qt1337" width="40" height="40"/></a>
+  <a href="https://github.com/Huh-David" target="_blank"><img src="https://avatars.githubusercontent.com/u/38101884?v=4" alt="Huh-David" width="40" height="40"/></a>
   <a href="https://github.com/yiggalow" target="_blank"><img src="https://avatars.githubusercontent.com/u/62741044?v=4" alt="Danny" width="40" height="40"/></a>
   <a href="https://github.com/LorenzSeufert" target="_blank"><img src="https://avatars.githubusercontent.com/u/63779018?v=4" alt="Lorenz" width="40" height="40"/></a>
   <a href="https://github.com/henningxtro" target="_blank"><img src="https://avatars.githubusercontent.com/u/14163559?v=4" alt="Henning" width="40" height="40"/></a>
