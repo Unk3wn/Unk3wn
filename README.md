@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Nico
 ```js
 export default () => ({
   personal: {
