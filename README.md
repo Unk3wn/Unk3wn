@@ -26,4 +26,5 @@ export default () => ({
     "iot": [ "Arduino", "Raspberry Pi" ],
     "editors": [ "IntelliJ", "Nano", "Vim", "Eclipse" ]
   }
+})
 ```
