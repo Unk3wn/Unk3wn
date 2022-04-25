@@ -1,7 +1,7 @@
 ```js
 export default {
   personal: {
-    position : "🇩🇪",
+    location : "🇩🇪",
     height : "172cm",
     display : "👦",
     background : "IT Specialist",
