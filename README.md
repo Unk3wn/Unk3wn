@@ -9,7 +9,8 @@ export default {
     languages : ["de_DE", "en_US"]
   },
   greatPeople: [
-    "Mueller-Patrick", "Krissi005", "liza-kl", "Huh-David", "yiggalow", "LorenzSeufert", "henningxtro", "Reboooooorn", "D45Hub"
+    "Mueller-Patrick", "Krissi005", "liza-kl", "Huh-David", "yiggalow", 
+    "LorenzSeufert", "henningxtro", "Reboooooorn", "D45Hub"
   ],
   askMeAbout: [
     "dev", "tech", "data", "☕", "🎶"
