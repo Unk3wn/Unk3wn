@@ -10,7 +10,7 @@ export default {
   },
   💖: [
     "Mueller-Patrick", "Krissi005", "liza-kl", "Huh-David", "yiggalow", 
-    "LorenzSeufert", "henningxtro", "Reboooooorn", "D45Hub"
+    "LorenzSeufert", "henningxtro", "Reboooooorn", "D45Hub", "BrunnerJulian"
   ],
   askMeAbout: [
     "dev", "tech", "data", "☕", "🎶"
