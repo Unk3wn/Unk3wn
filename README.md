@@ -9,7 +9,7 @@ export default {
     languages : ["de_DE", "en_US"]
   },
   💖: [
-    "Mueller-Patrick", "Krissi005", "liza-kl", "Huh-David", "yiggalow", 
+    "Mueller-Patrick", "liza-kl", "Huh-David", "yiggalow", 
     "LorenzSeufert", "henningxtro", "Reboooooorn", "D45Hub", "BrunnerJulian"
   ],
   askMeAbout: [
