@@ -1,19 +1,7 @@
 ```js
 export default {
-  personal: {
-    location : "🇩🇪",
-    height : "172cm",
-    display : "👦",
-    background : "IT Specialist",
-    color : "🟢",
-    languages : ["de_DE", "en_US"]
-  },
-  💖: [
-    "Mueller-Patrick", "Krissi005", "liza-kl", "Huh-David", "yiggalow", 
-    "LorenzSeufert", "henningxtro", "Reboooooorn", "D45Hub", "BrunnerJulian"
-  ],
   askMeAbout: [
-    "dev", "tech", "data", "☕", "🎶"
+    "dev", "tech", "data", "☕", "🎶", "🥃", !Microsoft
   ],
   technologies: {
     languages: ["Java", "JavaScript", "TypeScript", "Python",
